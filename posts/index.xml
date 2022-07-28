@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cameron Diou Portfolio</title>
-    <link>http://example.org/posts/</link>
+    <link>http://merondiou.com/posts/</link>
     <description>Recent content in Posts on Cameron Diou Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jul 2022 08:07:27 -0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 08:07:27 -0700</lastBuildDate><atom:link href="http://merondiou.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>http://example.org/posts/links/</link>
+      <link>http://merondiou.com/posts/links/</link>
       <pubDate>Wed, 27 Jul 2022 08:07:27 -0700</pubDate>
       
-      <guid>http://example.org/posts/links/</guid>
+      <guid>http://merondiou.com/posts/links/</guid>
       <description>My links
 Email: c@merondiou.com
 Github: https://github.com/camerondiou
@@ -24,29 +24,29 @@ Theme: https://github.com/Yukuro/hugo-theme-shell</description>
     
     <item>
       <title>Cameron Diou</title>
-      <link>http://example.org/posts/cover/</link>
+      <link>http://merondiou.com/posts/cover/</link>
       <pubDate>Wed, 27 Jul 2022 08:04:07 -0700</pubDate>
       
-      <guid>http://example.org/posts/cover/</guid>
+      <guid>http://merondiou.com/posts/cover/</guid>
       <description>If there has been one thing in my life that set in motion so much of who I am today it would be Linux. I started playing around with Linux back in 2006 with Yellow Dog Linux on my PS3. That quickly became an obsession and I started looking into all the distros that were around and eventually I found Ubuntu. This was back when you could get on a list and have someone mail you a physical copy of the OS.</description>
     </item>
     
     <item>
       <title>Whatsthat</title>
-      <link>http://example.org/posts/whatsthat/</link>
+      <link>http://merondiou.com/posts/whatsthat/</link>
       <pubDate>Tue, 26 Jul 2022 12:58:10 -0700</pubDate>
       
-      <guid>http://example.org/posts/whatsthat/</guid>
+      <guid>http://merondiou.com/posts/whatsthat/</guid>
       <description>After graduating TCU in 2017 my old roommate had recently launched a startup called WhatsThat! in Amsterdam. The application was a social network where you would post images of something interesting and have your friends try to guess what it is.
 Since I was a recent graduate my roommate invited me to come see the office and what they were working on. After spending some time with the team at WhatsThat I was invited to join the company.</description>
     </item>
     
     <item>
       <title>Sheepdog Technologies</title>
-      <link>http://example.org/posts/sheepdogtech/</link>
+      <link>http://merondiou.com/posts/sheepdogtech/</link>
       <pubDate>Tue, 26 Jul 2022 12:14:49 -0700</pubDate>
       
-      <guid>http://example.org/posts/sheepdogtech/</guid>
+      <guid>http://merondiou.com/posts/sheepdogtech/</guid>
       <description>While I was at TCU I decided to take a break my Jr year and founded a startup company called &amp;ldquo;Sheepdog Technologies&amp;rdquo; with my roommate and some of my friends from Boy Scouts.
 We worked on an application for Google Glass to reinvent the tour guide experience with this new technology and ibeacons. We ended up working with several museums and even had members from the Smithsonian and Travelocity on our board.</description>
     </item>

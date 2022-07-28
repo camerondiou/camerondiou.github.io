@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://merondiou.com/</loc>
     <lastmod>2022-07-27T08:07:27-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/links/</loc>
+    <loc>http://merondiou.com/posts/links/</loc>
     <lastmod>2022-07-27T08:07:27-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://merondiou.com/posts/</loc>
     <lastmod>2022-07-27T08:07:27-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/cover/</loc>
+    <loc>http://merondiou.com/posts/cover/</loc>
     <lastmod>2022-07-27T08:04:07-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/whatsthat/</loc>
+    <loc>http://merondiou.com/posts/whatsthat/</loc>
     <lastmod>2022-07-26T12:58:10-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/sheepdogtech/</loc>
+    <loc>http://merondiou.com/posts/sheepdogtech/</loc>
     <lastmod>2022-07-26T12:14:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/description/</loc>
+    <loc>http://merondiou.com/description/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://merondiou.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://merondiou.com/tags/</loc>
   </url>
 </urlset>
