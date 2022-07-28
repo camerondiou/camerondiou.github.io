@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Cameron Diou Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jul 2022 08:07:27 -0700</lastBuildDate><atom:link href="http://merondiou.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 11:44:05 -0700</lastBuildDate><atom:link href="http://merondiou.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hylafax</title>
+      <link>http://merondiou.com/posts/hylafax/</link>
+      <pubDate>Wed, 27 Jul 2022 11:44:05 -0700</pubDate>
+      
+      <guid>http://merondiou.com/posts/hylafax/</guid>
+      <description>At iFAX Solutions I work with our customers to install and maintain servers in enterprise environments. Our software has a variety of uses so most servers are unique and provide their own challenges. The stack of software I configure and maintain on these servers can be found below:
+SR140 - Virtual Fax Modem that uses closed source software.
+Postfix - Customers can email faxes to the server, receive notifications, and reports to relays or as its own mail server.</description>
+    </item>
+    
     <item>
       <title>Links</title>
       <link>http://merondiou.com/posts/links/</link>
